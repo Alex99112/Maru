@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "VNP×Gay", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Maru Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 OrionLib:MakeNotification({
 	Name = "Loading...",
